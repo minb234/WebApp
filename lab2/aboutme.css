@@ -4,11 +4,11 @@ body{
 	background-color: #1D2475;
 }
 h1{
+	font-size: 40pt;
 	color: #F7931E;
 	text-shadow: 3px 3px green;
 }
 h2{
-	font-size: 40pt;
 	color: #F7931E;
 }
 dl{
